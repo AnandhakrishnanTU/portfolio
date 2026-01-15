@@ -28,16 +28,12 @@ This project showcases my work, skills, and experience through a clean UI, smoot
 
 ---
 
-## 🛠️ Getting Started (Local Development)
-
-### Prerequisites
-- Node.js (v18 or above)
-- npm
-
 ## 📁 Project Status
 
 This project is actively under development.
 New features, 3D elements, and design improvements will be added incrementally.
+
+---
 
 ## 👤 About Me
 
@@ -45,11 +41,20 @@ Anandhu
 UI / Frontend Developer
 Passionate about building visually engaging, user-friendly, and future-ready web experiences.
 
+---
+
 ## 📄 License
 
 This project is intended for personal and portfolio use.
 Forking is allowed for learning purposes with attribution.
 
+---
+
+## 🛠️ Getting Started (Local Development)
+
+### Prerequisites
+- Node.js (v18 or above)
+- npm
 
 ### Installation
 
