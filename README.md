@@ -34,14 +34,6 @@ This project showcases my work, skills, and experience through a clean UI, smoot
 - Node.js (v18 or above)
 - npm
 
-### Installation
-
-```bash
-git clone https://github.com/AnandhakrishnanTU/portfolio.git
-cd portfolio
-npm install
-npm run dev
-
 ## 📁 Project Status
 
 This project is actively under development.
@@ -57,3 +49,12 @@ Passionate about building visually engaging, user-friendly, and future-ready web
 
 This project is intended for personal and portfolio use.
 Forking is allowed for learning purposes with attribution.
+
+
+### Installation
+
+```bash
+git clone https://github.com/AnandhakrishnanTU/portfolio.git
+cd portfolio
+npm install
+npm run dev
